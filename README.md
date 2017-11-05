@@ -11,7 +11,7 @@ Please feel free to connect to me at slack: askmarek.slack.com
 It might be a good place for running your visual recognition service for:
 - Android
 - iOS
-- IoT
+- [IoT](https://github.com/blumareks/iot-watson-swift/tree/master/lab2)
 
 ## IBM Cloud for 
 In addition to that you can easily connect your IoT device to measure temperature or humidity. Check these resources:
